@@ -24,5 +24,4 @@ This project provides a comprehensive analysis of heart disease risk factors. I 
 * `Data/`: Contains raw and cleaned CSV files.
 * `Notebooks/`: Contains the full `Medical_Analysis.ipynb` with step-by-step code.
 
-## 👤 Author
-**Amir** *Data Analytics Portfolio Project*
+
